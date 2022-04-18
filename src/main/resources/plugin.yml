@@ -1,0 +1,7 @@
+name: InventoriesAndItems
+version: '${project.version}'
+main: me.kodysimpson.inventoriesanditems.InventoriesAndItems
+api-version: 1.18
+commands:
+  menu:
+    description: Open the inventory menu
